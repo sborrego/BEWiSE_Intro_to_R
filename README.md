@@ -38,5 +38,5 @@ Another option is install all the software on your computer. You will need to in
 
 2. Install RStudio Desktop
   - Website: [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
-  - The website should provide a recommendatan for the installer best for your system
+  - The website should provide a recommendation for the installer best for your operating system
   - If not, scroll down and choose a download option for your operating system
