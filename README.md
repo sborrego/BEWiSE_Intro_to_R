@@ -7,7 +7,7 @@ R is a beginner friendly programming language used for statistical computing and
 
 To participate in this workshop you will need to have access to the programming language R and RStudio - please see the options below.
 
-### Option 1
+### Option 1 - recommended
 
 Accessing Rstudio on the cloud is an excellent alternative to installing it on your own computer. You will need to sign up for a free account on their website by following the instructions below.
 
@@ -21,3 +21,22 @@ Website: [RStudio Cloud](https://rstudio.cloud/)
 - At the top you can *rename* the project by clicking on Untitled Project
 - Prepare for the workshop by following the installing packages instructions below
 You are all set! This workspace will be saved and ready to access anytime in the future.
+
+### Option 2
+
+Another option is install all the software on your computer. You will need to install BOTH the R programming language and RStudio by following the instructions below.
+
+1. Install R  
+- Website: [R Project for Statistical Computing](https://www.r-project.org/)
+- Click on **CRAN** -- On the left side of the window under *Download*
+- Choose the CRAN Mirror closest to your location under *USA*
+  - [Oregon State University, OR](https://ftp.osuosl.org/pub/cran/)
+  - [Revolution Analytics, Dallas, TX](https://cran.microsoft.com/)
+  - [University of Kansas, Lawrence, KS](https://rweb.crmda.ku.edu/cran/)
+- Download R for your operating system
+
+2. Install RStudio Desktop
+- Website: [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
+- Click the **Download** button under the *RStudio Desktop* column
+- The website should provide a recommendatan for the installer best for your system
+- If not, scroll down and choose a download option for your operating system
