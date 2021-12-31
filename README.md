@@ -3,6 +3,8 @@
 
 R is a beginner friendly programming language used for statistical computing and graphics. In this workshop, you will be introduced to the basics of R and learn the foundations of data visualization, the most powerful aspect of this language. Attendees do not need to have any prior programming experience, we will start from the beginning!
 
+***
+
 ## Install R and RStudio or get access on RStudio Cloud
 
 To participate in this workshop you will need to have access to the programming language R and RStudio - please see the options below.
