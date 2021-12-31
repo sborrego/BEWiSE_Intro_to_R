@@ -27,16 +27,16 @@ You are all set! This workspace will be saved and ready to access anytime in the
 Another option is install all the software on your computer. You will need to install BOTH the R programming language and RStudio by following the instructions below.
 
 1. Install R  
-- Website: [R Project for Statistical Computing](https://www.r-project.org/)
-- Click on **CRAN** -- On the left side of the window under *Download*
-- Choose the CRAN Mirror closest to your location under *USA*
-  - [Oregon State University, OR](https://ftp.osuosl.org/pub/cran/)
-  - [Revolution Analytics, Dallas, TX](https://cran.microsoft.com/)
-  - [University of Kansas, Lawrence, KS](https://rweb.crmda.ku.edu/cran/)
-- Download R for your operating system
+  - Website: [R Project for Statistical Computing](https://www.r-project.org/)
+  - Click on **CRAN** -- On the left side of the window under *Download*
+  - Choose the CRAN Mirror closest to your location under *USA*
+    - [Oregon State University, OR](https://ftp.osuosl.org/pub/cran/)
+    - [Revolution Analytics, Dallas, TX](https://cran.microsoft.com/)
+    - [University of Kansas, Lawrence, KS](https://rweb.crmda.ku.edu/cran/)
+  - Download R for your operating system
 <br>
 
 2. Install RStudio Desktop
-- Website: [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
-- The website should provide a recommendatan for the installer best for your system
-- If not, scroll down and choose a download option for your operating system
+  - Website: [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
+  - The website should provide a recommendatan for the installer best for your system
+  - If not, scroll down and choose a download option for your operating system
