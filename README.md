@@ -34,7 +34,7 @@ Another option is install all the software on your computer. You will need to in
   - [Revolution Analytics, Dallas, TX](https://cran.microsoft.com/)
   - [University of Kansas, Lawrence, KS](https://rweb.crmda.ku.edu/cran/)
 - Download R for your operating system
-
+<br>
 
 2. Install RStudio Desktop
 - Website: [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
