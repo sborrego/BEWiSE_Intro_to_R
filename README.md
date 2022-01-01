@@ -7,7 +7,7 @@ R is a beginner friendly programming language used for statistical computing and
 
 ## Install R and RStudio or get access on RStudio Cloud
 
-To participate in this workshop you will need to have access to the programming language R and RStudio - please see the options below.
+To participate in this workshop you will need to have access to the programming language R and RStudio - see the options below. Please be prepared and have R and RStudio setup using either method before the workshop. If you are experience any trouble with installation, please contact me prior to the workshop **staceyborrego@gmail.com**.
 
 ### Option 1 - recommended
 
@@ -42,3 +42,16 @@ Another option is install all the software on your computer. You will need to in
   - Website: [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
   - The website should provide a recommendation for the installer best for your operating system
   - If not, scroll down and choose a download option for your operating system
+
+***
+
+## Schedule
+
+| Time       |    Topic              |
+|:----------:|:---------------------:|
+| 10:00 AM   | Introductions         |
+|            | Simple math           |
+|            | Functions in R        |
+|            | Data frames           |
+|            | Plotting              |
+| 12:00 PM   | End of Workshop       |
