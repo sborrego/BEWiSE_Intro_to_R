@@ -47,11 +47,11 @@ Another option is install all the software on your computer. You will need to in
 
 ## Schedule
 
-| Time       |    Topic              |
-|:----------:|:---------------------:|
-| 10:00 AM   | Introductions         |
-|            | Simple math           |
-|            | Functions in R        |
-|            | Data frames           |
-|            | Plotting              |
-| 12:00 PM   | End of Workshop       |
+| Time       |    Topic                                     |
+|:----------:|:---------------------------------------------|
+| 10:00 AM   | Introductions                                |
+|            | Simple math                                  |
+|            | Functions in R                               |
+|            | Data frames                                  |
+|            | Plotting                                     |
+| 12:00 PM   | End of Workshop                              |
