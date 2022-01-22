@@ -47,7 +47,13 @@ Another option is install all the software on your computer. You will need to in
 
 ## Lesson Plan
 
-You are welcome to check out the lesson plan ahead of time. The files listed above can be downloaded by clicking on the green **CODE** button and selecting **Download Zip** in the menu. The *.rmd* file can be opened in RStudio and the *.html* file will open in your browser. Please let me know if you have any issues with this!
+You are welcome to check out the lesson plan ahead of time. 
+
+* The files listed above can be downloaded by clicking on the green **CODE** button and selecting **Download Zip** in the menu. 
+* The *.rmd* file can be opened in RStudio
+* The *.html* file will open in your browser 
+* <a href="https://docs.google.com/document/d/1nKTOfTxGtRe4H_P4BQsV3zjj-1pLZopC/edit?usp=sharing&ouid=107300023887277169043&rtpof=true&sd=true">HERE</a> is a link to the lesson plan in word doc form! 
+* Please let me know if you have any issues. Happy scripting!
 
 ***
 
