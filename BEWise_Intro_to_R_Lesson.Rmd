@@ -355,10 +355,10 @@ This is what the data will look like:
 tabl <- "
 | Column            | Description                                   |
 |-------------------|:----------------------------------------------|
-| Sepal.Length	    | Sepal length in centimeters                   |                       
-| Sepal.Width	      | Sepal width in centimeters                    |
-| Petal.Length	    | Petal length in centimeters                   |
-| Petal.Width	      | Petal width in centimeters                    |
+| Sepal.Length	     | Sepal length in centimeters                   |                       
+| Sepal.Width	     | Sepal width in centimeters                    |
+| Petal.Length	     | Petal length in centimeters                   |
+| Petal.Width	     | Petal width in centimeters                    |
 | Species	          | Name of species name                          |
 "
 cat(tabl)
